@@ -1,0 +1,5 @@
+rootProject.name = 'jetty10-memory-test'
+include 'loadtest'
+include 'jetty9'
+include 'jetty10'
+
